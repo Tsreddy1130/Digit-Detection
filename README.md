@@ -45,4 +45,4 @@ To run the project, ensure the following are installed:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository_link>
+   git clone <https://github.com/Tsreddy1130/Digit-Detection.git>
